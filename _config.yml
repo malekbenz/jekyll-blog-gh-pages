@@ -1,0 +1,7 @@
+markdown: kramdown
+paginate: 4
+# baseurl: http://jekyll-blog.com/
+
+gems: 
+ - jekyll-paginate
+ - jekyll-sitemap

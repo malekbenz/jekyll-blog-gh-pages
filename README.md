@@ -1,1 +1,4 @@
-# jekyll-blog-gh-pages
+jekyll-blog
+===========
+
+jekyll Template For a Blog
